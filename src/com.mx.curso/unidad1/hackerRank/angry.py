@@ -33,9 +33,9 @@ print("Total de alumnos puntuales:", puntuales)
 # Return YES if class is cancelled
 # Return NO if class goes on
 if puntuales < k:
-    print("YES (Clase cancelada)")
+    print("YES")
 else:
-    print("NO (La clase continúa)")
+    print("NO")
 
 
 
